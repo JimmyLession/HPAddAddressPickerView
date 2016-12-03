@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		25157EE91DF327BD002DB122 /* HPTranslucencyController.m in Sources */ = {isa = PBXBuildFile; fileRef = 25157EE81DF327BD002DB122 /* HPTranslucencyController.m */; };
 		50588FCC1DE57407005BBD49 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 50588FCB1DE57407005BBD49 /* main.m */; };
 		50588FCF1DE57407005BBD49 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 50588FCE1DE57407005BBD49 /* AppDelegate.m */; };
 		50588FD21DE57407005BBD49 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 50588FD11DE57407005BBD49 /* ViewController.m */; };
@@ -30,6 +31,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		25157EE71DF327BD002DB122 /* HPTranslucencyController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HPTranslucencyController.h; sourceTree = "<group>"; };
+		25157EE81DF327BD002DB122 /* HPTranslucencyController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HPTranslucencyController.m; sourceTree = "<group>"; };
 		50588FC71DE57407005BBD49 /* testaaaaaaaaaa.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = testaaaaaaaaaa.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		50588FCB1DE57407005BBD49 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		50588FCD1DE57407005BBD49 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -107,6 +110,8 @@
 				50588FD61DE57407005BBD49 /* Assets.xcassets */,
 				50588FD81DE57407005BBD49 /* LaunchScreen.storyboard */,
 				50588FDB1DE57407005BBD49 /* Info.plist */,
+				25157EE71DF327BD002DB122 /* HPTranslucencyController.h */,
+				25157EE81DF327BD002DB122 /* HPTranslucencyController.m */,
 				50588FCA1DE57407005BBD49 /* Supporting Files */,
 				50588FE41DE5761B005BBD49 /* HPAddAddressPickerModel.h */,
 				50588FE51DE5761B005BBD49 /* HPAddAddressPickerModel.m */,
@@ -246,6 +251,7 @@
 				505890051DE57822005BBD49 /* MJPropertyType.m in Sources */,
 				505890061DE57822005BBD49 /* NSObject+MJClass.m in Sources */,
 				5058900A1DE57822005BBD49 /* NSString+MJExtension.m in Sources */,
+				25157EE91DF327BD002DB122 /* HPTranslucencyController.m in Sources */,
 				50588FCC1DE57407005BBD49 /* main.m in Sources */,
 				505890091DE57822005BBD49 /* NSObject+MJProperty.m in Sources */,
 				505890071DE57822005BBD49 /* NSObject+MJCoding.m in Sources */,
@@ -408,6 +414,7 @@
 				50588FE01DE57407005BBD49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
